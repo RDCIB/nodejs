@@ -16,6 +16,7 @@ let items = [
   { id: 1, name: 'Item 11' },
   { id: 2, name: 'Item 22' },
   { id: 3, name: 'Item 3' },
+  { id: 4, name: 'Item 4' },
 ];
 
 // GET all items
