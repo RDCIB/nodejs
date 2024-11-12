@@ -13,8 +13,8 @@ app.get('/', (req, res) => {
 
 // Sample data
 let items = [
-  { id: 1, name: 'Item 1' },
-  { id: 2, name: 'Item 2' },
+  { id: 1, name: 'Item 11' },
+  { id: 2, name: 'Item 22' },
   { id: 3, name: 'Item 3' },
 ];
 
